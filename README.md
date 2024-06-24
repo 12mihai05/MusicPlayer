@@ -78,7 +78,7 @@ This project utilizes a Raspberry Pi Pico to facilitate digital audio playback f
 ## Build Instructions
 
 1. Download the `Github repository` to your computer.
-2. Open the `Software`, and then `Music-Player` folder
+2. Open the `Software`, and then `MusicPlayer` folder
 3. Open a `terminal` / `commnad prompt` window in the current folder.
 4. Considering that the Rust Toolchain is installed, run `cargo build`.
 5. The compiled binary should now be available in `target/thumbv6m-none-eabi/debug` under the name `music_player`.
