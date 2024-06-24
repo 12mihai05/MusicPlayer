@@ -1,12 +1,5 @@
 # Music Player
-Compact music player with microSD input, outputting to a speaker, featuring controls for play, pause, skip, and volume.
-
-:::info 
-
-**Author**: Pasaroiu Mihai Octavian \
-**GitHub Project Link**: https://github.com/UPB-FILS-MA/project-12mihai05.git
-
-:::
+Welcome to the Music Player project, a compact and innovative device designed using a Raspberry Pi Pico W. This music player features microSD storage for your favorite tunes, intuitive control buttons for navigation ( play, pause, and skip ), a potentiometer for volume adjustments, and an LCD display to show song titles. Currently, all components except the speaker output function correctly; the speaker only emits loud noises, likely due to incorrect byte processing from the microSD card.
 
 ## Description
 
